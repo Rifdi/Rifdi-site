@@ -1,0 +1,17 @@
+<html>
+ <body>
+ 
+ <h1 style="text-align:center;">Motivational Club</h1>
+ <h2>Why I picked up web development?</h2>
+ <p>God's Plan. Honestly, I just don't want to deal with numbers and stuff. So, I didn't want to do Algorithm. Okay Thanks! Also, making websites is cool!</p>
+
+ <h2>Favourite Actress?</h2>
+ <img src="https://ia.media-imdb.com/images/M/MV5BZmMxYzk1OWEtMjE0MC00NTRlLTgwNTEtMGQ1YjA1Yzg1Nzc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR3,0,214,317_AL_.jpg" width="200">
+ <h3>Alicia Vikander</h3>
+ <p>Good Acting!</p>
+ 
+ <h2>Sites I wish were blocked?</h2>
+ <a href="https://ivy.ri.edu.sg/login/canvas">Ivy</a>
+
+ </body>
+</html>
